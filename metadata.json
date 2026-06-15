@@ -1,0 +1,6 @@
+{
+  "name": "SportScore",
+  "description": "Vibrant sports scoreboard dashboard, including beginner rules, equipment guides, and a trending news hub for major sports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
